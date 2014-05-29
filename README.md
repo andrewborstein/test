@@ -1,4 +1,4 @@
-jekyll-starter
+test
 ==============
 
-A Jekyll template for learning web development
+A way for me to test the github pages
