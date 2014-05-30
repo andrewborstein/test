@@ -219,7 +219,7 @@ pre code {
 }
 
 section {
-  postition: relative;
+  position: relative;
 }
 
 ul, ol, dl {
