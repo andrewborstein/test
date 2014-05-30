@@ -171,6 +171,10 @@ article {
 	margin-bottom: 2em;
 }
 
+article span {
+  color: #3a3a3a;
+}
+
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
   color: #222;
