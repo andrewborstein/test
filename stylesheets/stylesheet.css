@@ -169,6 +169,7 @@ article {
 	border-bottom: 1px dashed;
 	padding-bottom: 1em;
 	margin-bottom: 2em;
+  position: relative;
 }
 
 article span {
@@ -216,10 +217,6 @@ pre code {
   background-color: #303030;
   border: none;
   padding: 0;
-}
-
-section {
-  position: relative;
 }
 
 ul, ol, dl {
